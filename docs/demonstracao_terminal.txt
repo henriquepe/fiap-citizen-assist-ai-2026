@@ -1,0 +1,26 @@
+$ python src/sistema.py --pergunta "Como criar conta gov.br?"
+ASSUNTO: Como criar uma conta gov.br?
+ORIENTAÇÃO: A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.
+FONTE: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/
+VERIFICADA EM: 2026-11-05
+CONTINUAR: G02 — Quais são os níveis da conta gov.br?; G03 — Como recuperar a senha da conta gov.br?; G04 — Como ativar a verificação em duas etapas?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.
+
+ASSUNTO: A primeira via em papel da CIN tem custo?
+ORIENTAÇÃO: A primeira emissão em papel da CIN é gratuita. Outras vias e opções de suporte podem ter regras próprias; confirme essas condições com o órgão emissor estadual.
+FONTE: https://www.gov.br/gestao/pt-br/identidade-nacional
+VERIFICADA EM: 2026-11-05
+CONTINUAR: D01 — Qual número identifica a CIN?; D03 — Onde acessar a versão digital da CIN?; G01 — Como criar uma conta gov.br?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.
+
+$ python src/sistema.py --pergunta 'cin'
+Encontrei mais de um assunto. Escolha um identificador para continuar.
+  D01: Qual número identifica a CIN?
+  D02: A primeira via em papel da CIN tem custo?
+  D03: Onde acessar a versão digital da CIN?
+
+$ python src/sistema.py --pergunta ''
+Digite uma pergunta ou escolha um tema.
+
+$ python src/sistema.py --pergunta 'Qual a cotação do dólar?'
+Não encontrei orientação confiável nesta base. Consulte um dos temas do menu ou um canal oficial.

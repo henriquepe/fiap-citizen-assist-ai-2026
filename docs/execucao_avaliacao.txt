@@ -1,0 +1,12 @@
+{
+  "casos": 30,
+  "acertos": 28,
+  "taxa_acerto_pct": 93.33333333333333,
+  "tempo_medio_ms": 0.012639,
+  "tempo_maximo_ms": 0.105625,
+  "data": "2026-11-05",
+  "metodo": "1 consulta local por caso, base carregada antes da medição; não inclui rede nem tempo humano"
+}
+Roteiro de uso: 5/5 tarefas concluídas.
+LIMITAÇÃO T25: Quero ver meus vínculos empregatícios → sem_resposta 
+LIMITAÇÃO T26: Quero agradecer pelo bom serviço → sem_resposta 

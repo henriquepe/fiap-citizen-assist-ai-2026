@@ -1,0 +1,211 @@
+[
+  {
+    "caso": "T01",
+    "modelo_a": "A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.\nFonte: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como criar uma conta gov.br?\nORIENTAÇÃO: A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.\nFONTE: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G02 — Quais são os níveis da conta gov.br?; G03 — Como recuperar a senha da conta gov.br?; G04 — Como ativar a verificação em duas etapas?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T02",
+    "modelo_a": "A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.\nFonte: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como criar uma conta gov.br?\nORIENTAÇÃO: A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.\nFONTE: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G02 — Quais são os níveis da conta gov.br?; G03 — Como recuperar a senha da conta gov.br?; G04 — Como ativar a verificação em duas etapas?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T03",
+    "modelo_a": "A conta possui níveis Bronze, Prata e Ouro. Serviços diferentes podem exigir níveis distintos de verificação de identidade. Consulte as opções disponíveis no aplicativo oficial.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Quais são os níveis da conta gov.br?\nORIENTAÇÃO: A conta possui níveis Bronze, Prata e Ouro. Serviços diferentes podem exigir níveis distintos de verificação de identidade. Consulte as opções disponíveis no aplicativo oficial.\nFONTE: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G01 — Como criar uma conta gov.br?; G04 — Como ativar a verificação em duas etapas?; D03 — Onde acessar a versão digital da CIN?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T04",
+    "modelo_a": "Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.\nFonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como recuperar a senha da conta gov.br?\nORIENTAÇÃO: Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.\nFONTE: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G01 — Como criar uma conta gov.br?; G04 — Como ativar a verificação em duas etapas?; G05 — O código de acesso gov.br chega por SMS?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T05",
+    "modelo_a": "Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.\nFonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como recuperar a senha da conta gov.br?\nORIENTAÇÃO: Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.\nFONTE: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G01 — Como criar uma conta gov.br?; G04 — Como ativar a verificação em duas etapas?; G05 — O código de acesso gov.br chega por SMS?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T06",
+    "modelo_a": "A verificação em duas etapas pode ser ativada no aplicativo gov.br em uma conta Prata ou Ouro, na área de segurança. Ela acrescenta uma confirmação ao acesso.\nFonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como ativar a verificação em duas etapas?\nORIENTAÇÃO: A verificação em duas etapas pode ser ativada no aplicativo gov.br em uma conta Prata ou Ouro, na área de segurança. Ela acrescenta uma confirmação ao acesso.\nFONTE: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G02 — Quais são os níveis da conta gov.br?; G05 — O código de acesso gov.br chega por SMS?; G03 — Como recuperar a senha da conta gov.br?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T07",
+    "modelo_a": "O código da verificação em duas etapas é gerado no aplicativo gov.br; não é enviado por SMS. Consulte a ajuda oficial se você não consegue acessar o aplicativo.\nFonte: https://www.gov.br/governodigitallogin/pt-br/identidade/conta-gov-br/seguranca-da-conta\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: O código de acesso gov.br chega por SMS?\nORIENTAÇÃO: O código da verificação em duas etapas é gerado no aplicativo gov.br; não é enviado por SMS. Consulte a ajuda oficial se você não consegue acessar o aplicativo.\nFONTE: https://www.gov.br/governodigitallogin/pt-br/identidade/conta-gov-br/seguranca-da-conta\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G04 — Como ativar a verificação em duas etapas?; G03 — Como recuperar a senha da conta gov.br?; G02 — Quais são os níveis da conta gov.br?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T08",
+    "modelo_a": "A Carteira de Identidade Nacional usa o número do CPF como identificador único. Os procedimentos de emissão devem ser consultados no órgão de identificação do seu estado.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/cin\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Qual número identifica a CIN?\nORIENTAÇÃO: A Carteira de Identidade Nacional usa o número do CPF como identificador único. Os procedimentos de emissão devem ser consultados no órgão de identificação do seu estado.\nFONTE: https://www.gov.br/governodigital/pt-br/identidade/cin\nVERIFICADA EM: 2026-11-05\nCONTINUAR: D02 — A primeira via em papel da CIN tem custo?; D03 — Onde acessar a versão digital da CIN?; G01 — Como criar uma conta gov.br?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T09",
+    "modelo_a": "A primeira emissão em papel da CIN é gratuita. Outras vias e opções de suporte podem ter regras próprias; confirme essas condições com o órgão emissor estadual.\nFonte: https://www.gov.br/gestao/pt-br/identidade-nacional\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: A primeira via em papel da CIN tem custo?\nORIENTAÇÃO: A primeira emissão em papel da CIN é gratuita. Outras vias e opções de suporte podem ter regras próprias; confirme essas condições com o órgão emissor estadual.\nFONTE: https://www.gov.br/gestao/pt-br/identidade-nacional\nVERIFICADA EM: 2026-11-05\nCONTINUAR: D01 — Qual número identifica a CIN?; D03 — Onde acessar a versão digital da CIN?; G01 — Como criar uma conta gov.br?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T10",
+    "modelo_a": "Após a emissão da carteira física, a versão digital da CIN pode ser acessada no aplicativo gov.br. Consulte o órgão emissor se o documento ainda não estiver disponível.\nFonte: https://www.gov.br/gestao/pt-br/identidade-nacional\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Onde acessar a versão digital da CIN?\nORIENTAÇÃO: Após a emissão da carteira física, a versão digital da CIN pode ser acessada no aplicativo gov.br. Consulte o órgão emissor se o documento ainda não estiver disponível.\nFONTE: https://www.gov.br/gestao/pt-br/identidade-nacional\nVERIFICADA EM: 2026-11-05\nCONTINUAR: D01 — Qual número identifica a CIN?; G01 — Como criar uma conta gov.br?; G03 — Como recuperar a senha da conta gov.br?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T11",
+    "modelo_a": "Para acessar a Carteira de Trabalho Digital, utilize o aplicativo ou o canal web oficial com sua conta gov.br. O acesso usa o CPF; não é necessário informá-lo neste assistente.\nFonte: https://www.mg.gov.br/servico/obter-carteira-de-trabalho-digital\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como obter a Carteira de Trabalho Digital?\nORIENTAÇÃO: Para acessar a Carteira de Trabalho Digital, utilize o aplicativo ou o canal web oficial com sua conta gov.br. O acesso usa o CPF; não é necessário informá-lo neste assistente.\nFONTE: https://www.mg.gov.br/servico/obter-carteira-de-trabalho-digital\nVERIFICADA EM: 2026-11-05\nCONTINUAR: D05 — O que posso consultar na Carteira de Trabalho Digital?; G01 — Como criar uma conta gov.br?; G03 — Como recuperar a senha da conta gov.br?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T12",
+    "modelo_a": "A Carteira de Trabalho Digital permite acompanhar dados pessoais e contratos de trabalho registrados. A consulta é realizada no serviço oficial, sem compartilhamento desses dados com este protótipo.\nFonte: https://www.gov.br/pt-br/apps/ctps-digital\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: O que posso consultar na Carteira de Trabalho Digital?\nORIENTAÇÃO: A Carteira de Trabalho Digital permite acompanhar dados pessoais e contratos de trabalho registrados. A consulta é realizada no serviço oficial, sem compartilhamento desses dados com este protótipo.\nFONTE: https://www.gov.br/pt-br/apps/ctps-digital\nVERIFICADA EM: 2026-11-05\nCONTINUAR: D04 — Como obter a Carteira de Trabalho Digital?; G01 — Como criar uma conta gov.br?; G03 — Como recuperar a senha da conta gov.br?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T13",
+    "modelo_a": "Para comunicar insatisfação com um serviço público federal, utilize a categoria reclamação no Fala.BR e selecione o órgão responsável.\nFonte: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como registrar reclamação sobre um serviço público federal?\nORIENTAÇÃO: Para comunicar insatisfação com um serviço público federal, utilize a categoria reclamação no Fala.BR e selecione o órgão responsável.\nFONTE: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes\nVERIFICADA EM: 2026-11-05\nCONTINUAR: P02 — Como sugerir uma melhoria em um serviço público?; P04 — Como pedir uma providência a um órgão público?; P05 — Como acompanhar uma manifestação no Fala.BR?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T14",
+    "modelo_a": "A categoria sugestão do Fala.BR recebe propostas para melhorar políticas ou serviços públicos. Descreva a melhoria e escolha o órgão relacionado.\nFonte: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como sugerir uma melhoria em um serviço público?\nORIENTAÇÃO: A categoria sugestão do Fala.BR recebe propostas para melhorar políticas ou serviços públicos. Descreva a melhoria e escolha o órgão relacionado.\nFONTE: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes\nVERIFICADA EM: 2026-11-05\nCONTINUAR: P01 — Como registrar reclamação sobre um serviço público federal?; P03 — Como elogiar um atendimento público?; P05 — Como acompanhar uma manifestação no Fala.BR?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T15",
+    "modelo_a": "Use a categoria elogio no Fala.BR para registrar reconhecimento por um atendimento ou serviço público recebido.\nFonte: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como elogiar um atendimento público?\nORIENTAÇÃO: Use a categoria elogio no Fala.BR para registrar reconhecimento por um atendimento ou serviço público recebido.\nFONTE: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes\nVERIFICADA EM: 2026-11-05\nCONTINUAR: P02 — Como sugerir uma melhoria em um serviço público?; P01 — Como registrar reclamação sobre um serviço público federal?; P05 — Como acompanhar uma manifestação no Fala.BR?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T16",
+    "modelo_a": "A categoria solicitação do Fala.BR serve para pedir uma providência à Administração Pública. Identifique o órgão competente e descreva o que é necessário.\nFonte: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como pedir uma providência a um órgão público?\nORIENTAÇÃO: A categoria solicitação do Fala.BR serve para pedir uma providência à Administração Pública. Identifique o órgão competente e descreva o que é necessário.\nFONTE: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes\nVERIFICADA EM: 2026-11-05\nCONTINUAR: P01 — Como registrar reclamação sobre um serviço público federal?; P02 — Como sugerir uma melhoria em um serviço público?; P05 — Como acompanhar uma manifestação no Fala.BR?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T17",
+    "modelo_a": "No Fala.BR, consulte a área Minhas Manifestações para acompanhar registros e respostas. Faça a autenticação diretamente no serviço oficial.\nFonte: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como acompanhar uma manifestação no Fala.BR?\nORIENTAÇÃO: No Fala.BR, consulte a área Minhas Manifestações para acompanhar registros e respostas. Faça a autenticação diretamente no serviço oficial.\nFONTE: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes\nVERIFICADA EM: 2026-11-05\nCONTINUAR: P01 — Como registrar reclamação sobre um serviço público federal?; P02 — Como sugerir uma melhoria em um serviço público?; P04 — Como pedir uma providência a um órgão público?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T23",
+    "modelo_a": "A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.\nFonte: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como criar uma conta gov.br?\nORIENTAÇÃO: A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.\nFONTE: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G02 — Quais são os níveis da conta gov.br?; G03 — Como recuperar a senha da conta gov.br?; G04 — Como ativar a verificação em duas etapas?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  },
+  {
+    "caso": "T27",
+    "modelo_a": "Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.\nFonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "modelo_b": "ASSUNTO: Como recuperar a senha da conta gov.br?\nORIENTAÇÃO: Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.\nFONTE: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G01 — Como criar uma conta gov.br?; G04 — Como ativar a verificação em duas etapas?; G05 — O código de acesso gov.br chega por SMS?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.",
+    "a_tem_fonte": true,
+    "b_tem_fonte": true,
+    "a_tem_data": false,
+    "b_tem_data": true,
+    "a_tem_continuidade": false,
+    "b_tem_continuidade": true
+  }
+]

@@ -1,0 +1,155 @@
+id,pergunta,estado_esperado,id_esperado,estado_obtido,ids_obtidos,acerto,tempo_ms,resposta_obtida
+T01,criar conta gov.br,respondida,G01,respondida,G01,True,0.105625,"ASSUNTO: Como criar uma conta gov.br?
+ORIENTAÇÃO: A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.
+FONTE: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/
+VERIFICADA EM: 2026-11-05
+CONTINUAR: G02 — Quais são os níveis da conta gov.br?; G03 — Como recuperar a senha da conta gov.br?; G04 — Como ativar a verificação em duas etapas?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T02,Quero cadastrar conta govbr,respondida,G01,respondida,G01,True,0.014917,"ASSUNTO: Como criar uma conta gov.br?
+ORIENTAÇÃO: A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.
+FONTE: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/
+VERIFICADA EM: 2026-11-05
+CONTINUAR: G02 — Quais são os níveis da conta gov.br?; G03 — Como recuperar a senha da conta gov.br?; G04 — Como ativar a verificação em duas etapas?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T03,Quais os níveis bronze prata ouro?,respondida,G02,respondida,G02,True,0.013333,"ASSUNTO: Quais são os níveis da conta gov.br?
+ORIENTAÇÃO: A conta possui níveis Bronze, Prata e Ouro. Serviços diferentes podem exigir níveis distintos de verificação de identidade. Consulte as opções disponíveis no aplicativo oficial.
+FONTE: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr
+VERIFICADA EM: 2026-11-05
+CONTINUAR: G01 — Como criar uma conta gov.br?; G04 — Como ativar a verificação em duas etapas?; D03 — Onde acessar a versão digital da CIN?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T04,Esqueci a senha gov.br,respondida,G03,respondida,G03,True,0.010959,"ASSUNTO: Como recuperar a senha da conta gov.br?
+ORIENTAÇÃO: Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.
+FONTE: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br
+VERIFICADA EM: 2026-11-05
+CONTINUAR: G01 — Como criar uma conta gov.br?; G04 — Como ativar a verificação em duas etapas?; G05 — O código de acesso gov.br chega por SMS?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T05,Como recuperar minha senha da conta?,respondida,G03,respondida,G03,True,0.011458,"ASSUNTO: Como recuperar a senha da conta gov.br?
+ORIENTAÇÃO: Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.
+FONTE: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br
+VERIFICADA EM: 2026-11-05
+CONTINUAR: G01 — Como criar uma conta gov.br?; G04 — Como ativar a verificação em duas etapas?; G05 — O código de acesso gov.br chega por SMS?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T06,ativar verificação em duas etapas,respondida,G04,respondida,G04,True,0.011125,"ASSUNTO: Como ativar a verificação em duas etapas?
+ORIENTAÇÃO: A verificação em duas etapas pode ser ativada no aplicativo gov.br em uma conta Prata ou Ouro, na área de segurança. Ela acrescenta uma confirmação ao acesso.
+FONTE: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas
+VERIFICADA EM: 2026-11-05
+CONTINUAR: G02 — Quais são os níveis da conta gov.br?; G05 — O código de acesso gov.br chega por SMS?; G03 — Como recuperar a senha da conta gov.br?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T07,O código govbr chega por SMS?,respondida,G05,respondida,G05,True,0.011792,"ASSUNTO: O código de acesso gov.br chega por SMS?
+ORIENTAÇÃO: O código da verificação em duas etapas é gerado no aplicativo gov.br; não é enviado por SMS. Consulte a ajuda oficial se você não consegue acessar o aplicativo.
+FONTE: https://www.gov.br/governodigitallogin/pt-br/identidade/conta-gov-br/seguranca-da-conta
+VERIFICADA EM: 2026-11-05
+CONTINUAR: G04 — Como ativar a verificação em duas etapas?; G03 — Como recuperar a senha da conta gov.br?; G02 — Quais são os níveis da conta gov.br?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T08,Qual número identifica a CIN?,respondida,D01,respondida,D01,True,0.009792,"ASSUNTO: Qual número identifica a CIN?
+ORIENTAÇÃO: A Carteira de Identidade Nacional usa o número do CPF como identificador único. Os procedimentos de emissão devem ser consultados no órgão de identificação do seu estado.
+FONTE: https://www.gov.br/governodigital/pt-br/identidade/cin
+VERIFICADA EM: 2026-11-05
+CONTINUAR: D02 — A primeira via em papel da CIN tem custo?; D03 — Onde acessar a versão digital da CIN?; G01 — Como criar uma conta gov.br?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T09,primeira via CIN custo,respondida,D02,respondida,D02,True,0.008959,"ASSUNTO: A primeira via em papel da CIN tem custo?
+ORIENTAÇÃO: A primeira emissão em papel da CIN é gratuita. Outras vias e opções de suporte podem ter regras próprias; confirme essas condições com o órgão emissor estadual.
+FONTE: https://www.gov.br/gestao/pt-br/identidade-nacional
+VERIFICADA EM: 2026-11-05
+CONTINUAR: D01 — Qual número identifica a CIN?; D03 — Onde acessar a versão digital da CIN?; G01 — Como criar uma conta gov.br?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T10,Onde acessar versão digital CIN?,respondida,D03,respondida,D03,True,0.011208,"ASSUNTO: Onde acessar a versão digital da CIN?
+ORIENTAÇÃO: Após a emissão da carteira física, a versão digital da CIN pode ser acessada no aplicativo gov.br. Consulte o órgão emissor se o documento ainda não estiver disponível.
+FONTE: https://www.gov.br/gestao/pt-br/identidade-nacional
+VERIFICADA EM: 2026-11-05
+CONTINUAR: D01 — Qual número identifica a CIN?; G01 — Como criar uma conta gov.br?; G03 — Como recuperar a senha da conta gov.br?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T11,Como obter carteira trabalho digital?,respondida,D04,respondida,D04,True,0.01075,"ASSUNTO: Como obter a Carteira de Trabalho Digital?
+ORIENTAÇÃO: Para acessar a Carteira de Trabalho Digital, utilize o aplicativo ou o canal web oficial com sua conta gov.br. O acesso usa o CPF; não é necessário informá-lo neste assistente.
+FONTE: https://www.mg.gov.br/servico/obter-carteira-de-trabalho-digital
+VERIFICADA EM: 2026-11-05
+CONTINUAR: D05 — O que posso consultar na Carteira de Trabalho Digital?; G01 — Como criar uma conta gov.br?; G03 — Como recuperar a senha da conta gov.br?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T12,Consultar contratos trabalho,respondida,D05,respondida,D05,True,0.009,"ASSUNTO: O que posso consultar na Carteira de Trabalho Digital?
+ORIENTAÇÃO: A Carteira de Trabalho Digital permite acompanhar dados pessoais e contratos de trabalho registrados. A consulta é realizada no serviço oficial, sem compartilhamento desses dados com este protótipo.
+FONTE: https://www.gov.br/pt-br/apps/ctps-digital
+VERIFICADA EM: 2026-11-05
+CONTINUAR: D04 — Como obter a Carteira de Trabalho Digital?; G01 — Como criar uma conta gov.br?; G03 — Como recuperar a senha da conta gov.br?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T13,Quero reclamar de serviço público federal,respondida,P01,respondida,P01,True,0.012209,"ASSUNTO: Como registrar reclamação sobre um serviço público federal?
+ORIENTAÇÃO: Para comunicar insatisfação com um serviço público federal, utilize a categoria reclamação no Fala.BR e selecione o órgão responsável.
+FONTE: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes
+VERIFICADA EM: 2026-11-05
+CONTINUAR: P02 — Como sugerir uma melhoria em um serviço público?; P04 — Como pedir uma providência a um órgão público?; P05 — Como acompanhar uma manifestação no Fala.BR?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T14,Como sugerir melhoria em serviço público?,respondida,P02,respondida,P02,True,0.011167,"ASSUNTO: Como sugerir uma melhoria em um serviço público?
+ORIENTAÇÃO: A categoria sugestão do Fala.BR recebe propostas para melhorar políticas ou serviços públicos. Descreva a melhoria e escolha o órgão relacionado.
+FONTE: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes
+VERIFICADA EM: 2026-11-05
+CONTINUAR: P01 — Como registrar reclamação sobre um serviço público federal?; P03 — Como elogiar um atendimento público?; P05 — Como acompanhar uma manifestação no Fala.BR?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T15,Quero elogiar atendimento,respondida,P03,respondida,P03,True,0.008708,"ASSUNTO: Como elogiar um atendimento público?
+ORIENTAÇÃO: Use a categoria elogio no Fala.BR para registrar reconhecimento por um atendimento ou serviço público recebido.
+FONTE: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes
+VERIFICADA EM: 2026-11-05
+CONTINUAR: P02 — Como sugerir uma melhoria em um serviço público?; P01 — Como registrar reclamação sobre um serviço público federal?; P05 — Como acompanhar uma manifestação no Fala.BR?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T16,Pedir providência órgão público,respondida,P04,respondida,P04,True,0.010875,"ASSUNTO: Como pedir uma providência a um órgão público?
+ORIENTAÇÃO: A categoria solicitação do Fala.BR serve para pedir uma providência à Administração Pública. Identifique o órgão competente e descreva o que é necessário.
+FONTE: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes
+VERIFICADA EM: 2026-11-05
+CONTINUAR: P01 — Como registrar reclamação sobre um serviço público federal?; P02 — Como sugerir uma melhoria em um serviço público?; P05 — Como acompanhar uma manifestação no Fala.BR?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T17,Acompanhar manifestação protocolo,respondida,P05,respondida,P05,True,0.009625,"ASSUNTO: Como acompanhar uma manifestação no Fala.BR?
+ORIENTAÇÃO: No Fala.BR, consulte a área Minhas Manifestações para acompanhar registros e respostas. Faça a autenticação diretamente no serviço oficial.
+FONTE: https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes
+VERIFICADA EM: 2026-11-05
+CONTINUAR: P01 — Como registrar reclamação sobre um serviço público federal?; P02 — Como sugerir uma melhoria em um serviço público?; P04 — Como pedir uma providência a um órgão público?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T18,,vazia,,vazia,,True,0.000417,"Digite uma pergunta ou escolha um tema.
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T19,cin,ambigua,,ambigua,"D01,D02,D03",True,0.007167,"Encontrei mais de um assunto. Escolha um identificador para continuar.
+  D01: Qual número identifica a CIN?
+  D02: A primeira via em papel da CIN tem custo?
+  D03: Onde acessar a versão digital da CIN?
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T20,Previsão meteorológica para Marte amanhã,sem_resposta,,sem_resposta,,True,0.010542,"Não encontrei orientação confiável nesta base. Consulte um dos temas do menu ou um canal oficial.
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T21,Meu CPF é 123.456.789-00,privacidade,,privacidade,,True,0.002,"Remova CPF, e-mail ou senha. Faça apenas uma pergunta geral; o texto não será gravado.
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T22,Qual a cotação do dólar?,sem_resposta,,sem_resposta,,True,0.008083,"Não encontrei orientação confiável nesta base. Consulte um dos temas do menu ou um canal oficial.
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T23,G01,respondida,G01,respondida,G01,True,0.00125,"ASSUNTO: Como criar uma conta gov.br?
+ORIENTAÇÃO: A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.
+FONTE: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/
+VERIFICADA EM: 2026-11-05
+CONTINUAR: G02 — Quais são os níveis da conta gov.br?; G03 — Como recuperar a senha da conta gov.br?; G04 — Como ativar a verificação em duas etapas?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T24,trabalho,ambigua,,ambigua,"D04,D05",True,0.006458,"Encontrei mais de um assunto. Escolha um identificador para continuar.
+  D04: Como obter a Carteira de Trabalho Digital?
+  D05: O que posso consultar na Carteira de Trabalho Digital?
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T25,Quero ver meus vínculos empregatícios,respondida,D05,sem_resposta,,False,0.01275,"Não encontrei orientação confiável nesta base. Consulte um dos temas do menu ou um canal oficial.
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T26,Quero agradecer pelo bom serviço,respondida,P03,sem_resposta,,False,0.009875,"Não encontrei orientação confiável nesta base. Consulte um dos temas do menu ou um canal oficial.
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T27,Esqueci minha senha como recupero conta gov,respondida,G03,respondida,G03,True,0.011875,"ASSUNTO: Como recuperar a senha da conta gov.br?
+ORIENTAÇÃO: Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.
+FONTE: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br
+VERIFICADA EM: 2026-11-05
+CONTINUAR: G01 — Como criar uma conta gov.br?; G04 — Como ativar a verificação em duas etapas?; G05 — O código de acesso gov.br chega por SMS?
+LIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T28,Como renovar passaporte?,sem_resposta,,sem_resposta,,True,0.00725,"Não encontrei orientação confiável nesta base. Consulte um dos temas do menu ou um canal oficial.
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T29,CIN e carteira de trabalho,ambigua,,ambigua,"D04,D05",True,0.009334,"Encontrei mais de um assunto. Escolha um identificador para continuar.
+  D04: Como obter a Carteira de Trabalho Digital?
+  D05: O que posso consultar na Carteira de Trabalho Digital?
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."
+T30,Como alterar meu nome na conta govbr?,sem_resposta,,sem_resposta,,True,0.010667,"Não encontrei orientação confiável nesta base. Consulte um dos temas do menu ou um canal oficial.
+Temas: Acesso digital, Documentos, Participação cidadã
+Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais."

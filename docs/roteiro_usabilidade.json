@@ -1,0 +1,37 @@
+[
+  {
+    "tarefa": "Escolher Documentos e consultar um ID",
+    "roteiro": "/menu\n2\nD02\n/sair\n",
+    "concluida": true,
+    "tempo_automatizado_ms": 33.491,
+    "transcricao": "CITIZEN ASSIST AI | Orientação cidadã com fontes\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: 1. Acesso digital\n2. Documentos\n3. Participação cidadã\nNúmero do tema: Identidade:\n  D01 — Qual número identifica a CIN?\nEmissão:\n  D02 — A primeira via em papel da CIN tem custo?\nVersão digital:\n  D03 — Onde acessar a versão digital da CIN?\nTrabalho:\n  D04 — Como obter a Carteira de Trabalho Digital?\nContratos:\n  D05 — O que posso consultar na Carteira de Trabalho Digital?\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: ASSUNTO: A primeira via em papel da CIN tem custo?\nORIENTAÇÃO: A primeira emissão em papel da CIN é gratuita. Outras vias e opções de suporte podem ter regras próprias; confirme essas condições com o órgão emissor estadual.\nFONTE: https://www.gov.br/gestao/pt-br/identidade-nacional\nVERIFICADA EM: 2026-11-05\nCONTINUAR: D01 — Qual número identifica a CIN?; D03 — Onde acessar a versão digital da CIN?; G01 — Como criar uma conta gov.br?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: "
+  },
+  {
+    "tarefa": "Recuperar-se de opção inválida",
+    "roteiro": "/menu\n9\nG01\n/sair\n",
+    "concluida": true,
+    "tempo_automatizado_ms": 32.711,
+    "transcricao": "CITIZEN ASSIST AI | Orientação cidadã com fontes\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: 1. Acesso digital\n2. Documentos\n3. Participação cidadã\nNúmero do tema: Opção inexistente. Escolha um dos números apresentados.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: ASSUNTO: Como criar uma conta gov.br?\nORIENTAÇÃO: A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.\nFONTE: https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G02 — Quais são os níveis da conta gov.br?; G03 — Como recuperar a senha da conta gov.br?; G04 — Como ativar a verificação em duas etapas?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: "
+  },
+  {
+    "tarefa": "Desambiguar CIN pelo identificador",
+    "roteiro": "cin\nD03\n/sair\n",
+    "concluida": true,
+    "tempo_automatizado_ms": 32.226,
+    "transcricao": "CITIZEN ASSIST AI | Orientação cidadã com fontes\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: Encontrei mais de um assunto. Escolha um identificador para continuar.\n  D01: Qual número identifica a CIN?\n  D02: A primeira via em papel da CIN tem custo?\n  D03: Onde acessar a versão digital da CIN?\nTemas: Acesso digital, Documentos, Participação cidadã\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: ASSUNTO: Onde acessar a versão digital da CIN?\nORIENTAÇÃO: Após a emissão da carteira física, a versão digital da CIN pode ser acessada no aplicativo gov.br. Consulte o órgão emissor se o documento ainda não estiver disponível.\nFONTE: https://www.gov.br/gestao/pt-br/identidade-nacional\nVERIFICADA EM: 2026-11-05\nCONTINUAR: D01 — Qual número identifica a CIN?; G01 — Como criar uma conta gov.br?; G03 — Como recuperar a senha da conta gov.br?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: "
+  },
+  {
+    "tarefa": "Perguntar fora do escopo e retornar",
+    "roteiro": "Qual a cotação do dólar?\n/menu\n1\nG03\n/sair\n",
+    "concluida": true,
+    "tempo_automatizado_ms": 31.937,
+    "transcricao": "CITIZEN ASSIST AI | Orientação cidadã com fontes\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: Não encontrei orientação confiável nesta base. Consulte um dos temas do menu ou um canal oficial.\nTemas: Acesso digital, Documentos, Participação cidadã\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: 1. Acesso digital\n2. Documentos\n3. Participação cidadã\nNúmero do tema: Conta:\n  G01 — Como criar uma conta gov.br?\nNíveis:\n  G02 — Quais são os níveis da conta gov.br?\nRecuperação:\n  G03 — Como recuperar a senha da conta gov.br?\nProteção:\n  G04 — Como ativar a verificação em duas etapas?\nCódigo:\n  G05 — O código de acesso gov.br chega por SMS?\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: ASSUNTO: Como recuperar a senha da conta gov.br?\nORIENTAÇÃO: Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.\nFONTE: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br\nVERIFICADA EM: 2026-11-05\nCONTINUAR: G01 — Como criar uma conta gov.br?; G04 — Como ativar a verificação em duas etapas?; G05 — O código de acesso gov.br chega por SMS?\nLIMITES: Protótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: "
+  },
+  {
+    "tarefa": "Tratar pergunta vazia",
+    "roteiro": "\n/sair\n",
+    "concluida": true,
+    "tempo_automatizado_ms": 32.12,
+    "transcricao": "CITIZEN ASSIST AI | Orientação cidadã com fontes\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: Digite uma pergunta ou escolha um tema.\nTemas: Acesso digital, Documentos, Participação cidadã\nProtótipo acadêmico, sem vínculo com órgãos públicos. Confirme os requisitos atuais na fonte oficial. Não informe dados pessoais.\n\n/menu: temas | /todos: remover filtro | /sair: encerrar | Digite pergunta ou ID\nVocê: "
+  }
+]

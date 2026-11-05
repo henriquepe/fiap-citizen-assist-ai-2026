@@ -1,0 +1,329 @@
+[
+  {
+    "id": "G01",
+    "tema": "Acesso digital",
+    "subtema": "Conta",
+    "pergunta": "Como criar uma conta gov.br?",
+    "palavras_chave": [
+      "criar",
+      "conta",
+      "govbr",
+      "cadastro",
+      "acesso"
+    ],
+    "orientacao": "A conta é criada no portal ou aplicativo gov.br. Siga o fluxo oficial de cadastro e forneça os dados somente no serviço do governo.",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "G02",
+      "G03",
+      "G04"
+    ]
+  },
+  {
+    "id": "G02",
+    "tema": "Acesso digital",
+    "subtema": "Níveis",
+    "pergunta": "Quais são os níveis da conta gov.br?",
+    "palavras_chave": [
+      "niveis",
+      "bronze",
+      "prata",
+      "ouro",
+      "seguranca",
+      "conta"
+    ],
+    "orientacao": "A conta possui níveis Bronze, Prata e Ouro. Serviços diferentes podem exigir níveis distintos de verificação de identidade. Consulte as opções disponíveis no aplicativo oficial.",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "G01",
+      "G04",
+      "D03"
+    ]
+  },
+  {
+    "id": "G03",
+    "tema": "Acesso digital",
+    "subtema": "Recuperação",
+    "pergunta": "Como recuperar a senha da conta gov.br?",
+    "palavras_chave": [
+      "recuperar",
+      "senha",
+      "esqueci",
+      "perdi",
+      "conta",
+      "govbr"
+    ],
+    "orientacao": "Use a recuperação de senha na página oficial de acesso gov.br e siga uma das formas de validação disponibilizadas para sua conta. Este protótipo não recebe senha nem executa a recuperação.",
+    "fonte": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "G01",
+      "G04",
+      "G05"
+    ]
+  },
+  {
+    "id": "G04",
+    "tema": "Acesso digital",
+    "subtema": "Proteção",
+    "pergunta": "Como ativar a verificação em duas etapas?",
+    "palavras_chave": [
+      "ativar",
+      "verificacao",
+      "duas",
+      "etapas",
+      "seguranca",
+      "govbr"
+    ],
+    "orientacao": "A verificação em duas etapas pode ser ativada no aplicativo gov.br em uma conta Prata ou Ouro, na área de segurança. Ela acrescenta uma confirmação ao acesso.",
+    "fonte": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "G02",
+      "G05",
+      "G03"
+    ]
+  },
+  {
+    "id": "G05",
+    "tema": "Acesso digital",
+    "subtema": "Código",
+    "pergunta": "O código de acesso gov.br chega por SMS?",
+    "palavras_chave": [
+      "codigo",
+      "sms",
+      "autenticador",
+      "govbr",
+      "gerar"
+    ],
+    "orientacao": "O código da verificação em duas etapas é gerado no aplicativo gov.br; não é enviado por SMS. Consulte a ajuda oficial se você não consegue acessar o aplicativo.",
+    "fonte": "https://www.gov.br/governodigitallogin/pt-br/identidade/conta-gov-br/seguranca-da-conta",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "G04",
+      "G03",
+      "G02"
+    ]
+  },
+  {
+    "id": "D01",
+    "tema": "Documentos",
+    "subtema": "Identidade",
+    "pergunta": "Qual número identifica a CIN?",
+    "palavras_chave": [
+      "cin",
+      "numero",
+      "cpf",
+      "identidade",
+      "nacional",
+      "identifica"
+    ],
+    "orientacao": "A Carteira de Identidade Nacional usa o número do CPF como identificador único. Os procedimentos de emissão devem ser consultados no órgão de identificação do seu estado.",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "D02",
+      "D03",
+      "G01"
+    ]
+  },
+  {
+    "id": "D02",
+    "tema": "Documentos",
+    "subtema": "Emissão",
+    "pergunta": "A primeira via em papel da CIN tem custo?",
+    "palavras_chave": [
+      "cin",
+      "primeira",
+      "via",
+      "papel",
+      "custo",
+      "gratuita",
+      "preco"
+    ],
+    "orientacao": "A primeira emissão em papel da CIN é gratuita. Outras vias e opções de suporte podem ter regras próprias; confirme essas condições com o órgão emissor estadual.",
+    "fonte": "https://www.gov.br/gestao/pt-br/identidade-nacional",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "D01",
+      "D03",
+      "G01"
+    ]
+  },
+  {
+    "id": "D03",
+    "tema": "Documentos",
+    "subtema": "Versão digital",
+    "pergunta": "Onde acessar a versão digital da CIN?",
+    "palavras_chave": [
+      "cin",
+      "versao",
+      "digital",
+      "aplicativo",
+      "formato"
+    ],
+    "orientacao": "Após a emissão da carteira física, a versão digital da CIN pode ser acessada no aplicativo gov.br. Consulte o órgão emissor se o documento ainda não estiver disponível.",
+    "fonte": "https://www.gov.br/gestao/pt-br/identidade-nacional",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "D01",
+      "G01",
+      "G03"
+    ]
+  },
+  {
+    "id": "D04",
+    "tema": "Documentos",
+    "subtema": "Trabalho",
+    "pergunta": "Como obter a Carteira de Trabalho Digital?",
+    "palavras_chave": [
+      "obter",
+      "carteira",
+      "trabalho",
+      "digital",
+      "acessar",
+      "cpf",
+      "conta"
+    ],
+    "orientacao": "Para acessar a Carteira de Trabalho Digital, utilize o aplicativo ou o canal web oficial com sua conta gov.br. O acesso usa o CPF; não é necessário informá-lo neste assistente.",
+    "fonte": "https://www.mg.gov.br/servico/obter-carteira-de-trabalho-digital",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "D05",
+      "G01",
+      "G03"
+    ]
+  },
+  {
+    "id": "D05",
+    "tema": "Documentos",
+    "subtema": "Contratos",
+    "pergunta": "O que posso consultar na Carteira de Trabalho Digital?",
+    "palavras_chave": [
+      "consultar",
+      "consulta",
+      "contratos",
+      "registros",
+      "trabalho",
+      "vida",
+      "laboral"
+    ],
+    "orientacao": "A Carteira de Trabalho Digital permite acompanhar dados pessoais e contratos de trabalho registrados. A consulta é realizada no serviço oficial, sem compartilhamento desses dados com este protótipo.",
+    "fonte": "https://www.gov.br/pt-br/apps/ctps-digital",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "D04",
+      "G01",
+      "G03"
+    ]
+  },
+  {
+    "id": "P01",
+    "tema": "Participação cidadã",
+    "subtema": "Reclamação",
+    "pergunta": "Como registrar reclamação sobre um serviço público federal?",
+    "palavras_chave": [
+      "reclamacao",
+      "reclamar",
+      "insatisfacao",
+      "servico",
+      "publico",
+      "federal"
+    ],
+    "orientacao": "Para comunicar insatisfação com um serviço público federal, utilize a categoria reclamação no Fala.BR e selecione o órgão responsável.",
+    "fonte": "https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "P02",
+      "P04",
+      "P05"
+    ]
+  },
+  {
+    "id": "P02",
+    "tema": "Participação cidadã",
+    "subtema": "Sugestão",
+    "pergunta": "Como sugerir uma melhoria em um serviço público?",
+    "palavras_chave": [
+      "sugestao",
+      "sugerir",
+      "melhoria",
+      "aprimorar",
+      "servico",
+      "publico"
+    ],
+    "orientacao": "A categoria sugestão do Fala.BR recebe propostas para melhorar políticas ou serviços públicos. Descreva a melhoria e escolha o órgão relacionado.",
+    "fonte": "https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "P01",
+      "P03",
+      "P05"
+    ]
+  },
+  {
+    "id": "P03",
+    "tema": "Participação cidadã",
+    "subtema": "Elogio",
+    "pergunta": "Como elogiar um atendimento público?",
+    "palavras_chave": [
+      "elogio",
+      "elogiar",
+      "agradecer",
+      "reconhecimento",
+      "atendimento"
+    ],
+    "orientacao": "Use a categoria elogio no Fala.BR para registrar reconhecimento por um atendimento ou serviço público recebido.",
+    "fonte": "https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "P02",
+      "P01",
+      "P05"
+    ]
+  },
+  {
+    "id": "P04",
+    "tema": "Participação cidadã",
+    "subtema": "Solicitação",
+    "pergunta": "Como pedir uma providência a um órgão público?",
+    "palavras_chave": [
+      "providencia",
+      "solicitacao",
+      "pedido",
+      "orgao",
+      "publico"
+    ],
+    "orientacao": "A categoria solicitação do Fala.BR serve para pedir uma providência à Administração Pública. Identifique o órgão competente e descreva o que é necessário.",
+    "fonte": "https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "P01",
+      "P02",
+      "P05"
+    ]
+  },
+  {
+    "id": "P05",
+    "tema": "Participação cidadã",
+    "subtema": "Acompanhamento",
+    "pergunta": "Como acompanhar uma manifestação no Fala.BR?",
+    "palavras_chave": [
+      "acompanhar",
+      "andamento",
+      "manifestacao",
+      "protocolo",
+      "falabr"
+    ],
+    "orientacao": "No Fala.BR, consulte a área Minhas Manifestações para acompanhar registros e respostas. Faça a autenticação diretamente no serviço oficial.",
+    "fonte": "https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes",
+    "verificado_em": "2026-11-05",
+    "relacionados": [
+      "P01",
+      "P02",
+      "P04"
+    ]
+  }
+]

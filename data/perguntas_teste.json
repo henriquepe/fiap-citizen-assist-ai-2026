@@ -1,0 +1,182 @@
+[
+  {
+    "id": "T01",
+    "pergunta": "criar conta gov.br",
+    "estado_esperado": "respondida",
+    "id_esperado": "G01"
+  },
+  {
+    "id": "T02",
+    "pergunta": "Quero cadastrar conta govbr",
+    "estado_esperado": "respondida",
+    "id_esperado": "G01"
+  },
+  {
+    "id": "T03",
+    "pergunta": "Quais os níveis bronze prata ouro?",
+    "estado_esperado": "respondida",
+    "id_esperado": "G02"
+  },
+  {
+    "id": "T04",
+    "pergunta": "Esqueci a senha gov.br",
+    "estado_esperado": "respondida",
+    "id_esperado": "G03"
+  },
+  {
+    "id": "T05",
+    "pergunta": "Como recuperar minha senha da conta?",
+    "estado_esperado": "respondida",
+    "id_esperado": "G03"
+  },
+  {
+    "id": "T06",
+    "pergunta": "ativar verificação em duas etapas",
+    "estado_esperado": "respondida",
+    "id_esperado": "G04"
+  },
+  {
+    "id": "T07",
+    "pergunta": "O código govbr chega por SMS?",
+    "estado_esperado": "respondida",
+    "id_esperado": "G05"
+  },
+  {
+    "id": "T08",
+    "pergunta": "Qual número identifica a CIN?",
+    "estado_esperado": "respondida",
+    "id_esperado": "D01"
+  },
+  {
+    "id": "T09",
+    "pergunta": "primeira via CIN custo",
+    "estado_esperado": "respondida",
+    "id_esperado": "D02"
+  },
+  {
+    "id": "T10",
+    "pergunta": "Onde acessar versão digital CIN?",
+    "estado_esperado": "respondida",
+    "id_esperado": "D03"
+  },
+  {
+    "id": "T11",
+    "pergunta": "Como obter carteira trabalho digital?",
+    "estado_esperado": "respondida",
+    "id_esperado": "D04"
+  },
+  {
+    "id": "T12",
+    "pergunta": "Consultar contratos trabalho",
+    "estado_esperado": "respondida",
+    "id_esperado": "D05"
+  },
+  {
+    "id": "T13",
+    "pergunta": "Quero reclamar de serviço público federal",
+    "estado_esperado": "respondida",
+    "id_esperado": "P01"
+  },
+  {
+    "id": "T14",
+    "pergunta": "Como sugerir melhoria em serviço público?",
+    "estado_esperado": "respondida",
+    "id_esperado": "P02"
+  },
+  {
+    "id": "T15",
+    "pergunta": "Quero elogiar atendimento",
+    "estado_esperado": "respondida",
+    "id_esperado": "P03"
+  },
+  {
+    "id": "T16",
+    "pergunta": "Pedir providência órgão público",
+    "estado_esperado": "respondida",
+    "id_esperado": "P04"
+  },
+  {
+    "id": "T17",
+    "pergunta": "Acompanhar manifestação protocolo",
+    "estado_esperado": "respondida",
+    "id_esperado": "P05"
+  },
+  {
+    "id": "T18",
+    "pergunta": "",
+    "estado_esperado": "vazia",
+    "id_esperado": null
+  },
+  {
+    "id": "T19",
+    "pergunta": "cin",
+    "estado_esperado": "ambigua",
+    "id_esperado": null
+  },
+  {
+    "id": "T20",
+    "pergunta": "Previsão meteorológica para Marte amanhã",
+    "estado_esperado": "sem_resposta",
+    "id_esperado": null
+  },
+  {
+    "id": "T21",
+    "pergunta": "Meu CPF é 123.456.789-00",
+    "estado_esperado": "privacidade",
+    "id_esperado": null
+  },
+  {
+    "id": "T22",
+    "pergunta": "Qual a cotação do dólar?",
+    "estado_esperado": "sem_resposta",
+    "id_esperado": null
+  },
+  {
+    "id": "T23",
+    "pergunta": "G01",
+    "estado_esperado": "respondida",
+    "id_esperado": "G01"
+  },
+  {
+    "id": "T24",
+    "pergunta": "trabalho",
+    "estado_esperado": "ambigua",
+    "id_esperado": null
+  },
+  {
+    "id": "T25",
+    "pergunta": "Quero ver meus vínculos empregatícios",
+    "estado_esperado": "respondida",
+    "id_esperado": "D05"
+  },
+  {
+    "id": "T26",
+    "pergunta": "Quero agradecer pelo bom serviço",
+    "estado_esperado": "respondida",
+    "id_esperado": "P03"
+  },
+  {
+    "id": "T27",
+    "pergunta": "Esqueci minha senha como recupero conta gov",
+    "estado_esperado": "respondida",
+    "id_esperado": "G03"
+  },
+  {
+    "id": "T28",
+    "pergunta": "Como renovar passaporte?",
+    "estado_esperado": "sem_resposta",
+    "id_esperado": null
+  },
+  {
+    "id": "T29",
+    "pergunta": "CIN e carteira de trabalho",
+    "estado_esperado": "ambigua",
+    "id_esperado": null
+  },
+  {
+    "id": "T30",
+    "pergunta": "Como alterar meu nome na conta govbr?",
+    "estado_esperado": "sem_resposta",
+    "id_esperado": null
+  }
+]

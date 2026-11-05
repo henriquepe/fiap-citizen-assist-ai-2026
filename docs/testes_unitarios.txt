@@ -1,0 +1,13 @@
+test_ambiguidade_nao_escolhe_por_conta_propria (test_sistema.Confiabilidade.test_ambiguidade_nao_escolhe_por_conta_propria) ... ok
+test_base_minima_e_relacoes (test_sistema.Confiabilidade.test_base_minima_e_relacoes) ... ok
+test_campos_fontes_e_relacoes_invalidos (test_sistema.Confiabilidade.test_campos_fontes_e_relacoes_invalidos) ... ok
+test_filtro_de_tema (test_sistema.Confiabilidade.test_filtro_de_tema) ... ok
+test_json_invalido_ausente_e_vazio (test_sistema.Confiabilidade.test_json_invalido_ausente_e_vazio) ... ok
+test_pergunta_fora_da_base_nao_inventa (test_sistema.Confiabilidade.test_pergunta_fora_da_base_nao_inventa) ... ok
+test_privacidade_e_entradas (test_sistema.Confiabilidade.test_privacidade_e_entradas) ... ok
+test_recuperacao_cita_fonte_da_base (test_sistema.Confiabilidade.test_recuperacao_cita_fonte_da_base) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.002s
+
+OK
